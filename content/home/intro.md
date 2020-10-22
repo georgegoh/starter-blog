@@ -1,5 +1,5 @@
 ---
-widget: starter.blog.intro
+widget: featured
 widget_id: recent-posts
 headless: true
 weight: 10
