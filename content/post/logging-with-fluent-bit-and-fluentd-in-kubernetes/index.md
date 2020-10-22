@@ -15,7 +15,7 @@ In this series of posts, I'll share my research, issues and workarounds in getti
 
 ## High-level overview
 
-As a lightweight component of the logging infrastructure, Fluent Bit can ship logs directly to many destinations. As of today, there are 21 output plugins listed on the link:https://docs.fluentbit.io/manual/pipeline/outputs\[Fluent Bit website]. However, Fluent Bit alone may not be sufficient for certain use cases.
+As a lightweight component of the logging infrastructure, Fluent Bit can ship logs directly to many destinations. As of today, there are 21 output plugins listed on the [Fluent Bit website](https://docs.fluentbit.io/manual/pipeline/outputs). However, Fluent Bit alone may not be sufficient for certain use cases.
 
 A common request seen in the field is to ship platform logs and application logs to different destinations and also augment the log record's fields with additional metadata. This guide documents a conceptual architecture to achieve this, and steps to deploy a MVP that demonstrates the use case.
 
