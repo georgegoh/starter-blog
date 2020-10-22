@@ -9,6 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](imag0130-effects.jpg)
+
 Fluent Bit is a fast and lightweight log processor, stream processor and forwarder. It’s gained popularity as the younger sibling of Fluentd due to its tiny memory footprint(\~650KB compared to Fluentd’s \~40MB), and zero dependencies - making it ideal for cloud and edge computing use cases.
 
 In this series of posts, I'll share my research, issues and workarounds in getting a lab set up for logging in a single Kubernetes cluster. I'll also share techniques to separate logs by namespaces.
