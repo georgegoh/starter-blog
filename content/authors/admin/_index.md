@@ -1,7 +1,7 @@
 ---
 title: George Goh
 role: Cloud Native Architect
-avatar_filename: george-profile.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
