@@ -5,7 +5,7 @@ date: 2020-10-22T06:12:33.056Z
 draft: false
 featured: false
 authors:
-  - George Goh
+  - ""
 image:
   filename: imag0130-effects.jpg
   focal_point: Smart
