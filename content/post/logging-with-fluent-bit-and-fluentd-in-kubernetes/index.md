@@ -7,7 +7,7 @@ featured: false
 authors:
   - ""
 image:
-  filename: imag0130-effects.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
