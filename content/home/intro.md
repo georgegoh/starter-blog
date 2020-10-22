@@ -3,7 +3,7 @@ widget: starter.blog.intro
 widget_id: recent-posts
 headless: true
 weight: 10
-title: ✏️ Blog Template
+title: ✏️ Blog Template 1
 subtitle: For [Academic Website Builder](https://sourcethemes.com/academic/)
 active: true
 design:
