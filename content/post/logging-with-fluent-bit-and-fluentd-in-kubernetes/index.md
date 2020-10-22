@@ -5,13 +5,13 @@ date: 2020-10-22T06:12:33.056Z
 draft: false
 featured: false
 authors:
-  - ""
+  - admin
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-![](imag0130-effects.jpg)
+![](featured.jpg)
 
 Fluent Bit is a fast and lightweight log processor, stream processor and forwarder. It’s gained popularity as the younger sibling of Fluentd due to its tiny memory footprint(\~650KB compared to Fluentd’s \~40MB), and zero dependencies - making it ideal for cloud and edge computing use cases.
 
